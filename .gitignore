@@ -207,3 +207,5 @@ paragonie/random_compat/.scrutinizer.yml
 paragonie/random_compat/ERRATA.md
 paragonie/random_compat/README.md
 paragonie/random_compat/SECURITY.md
+
+mtdowling/jmespath.php/tests
